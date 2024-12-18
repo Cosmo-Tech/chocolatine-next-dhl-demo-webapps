@@ -11,6 +11,8 @@ const cspConfigPolicy = {
     '*.api.cosmotech.com',
     'https://login.microsoftonline.com',
     'https://dc.services.visualstudio.com',
+    'https://next-pilot-demo.app.cosmotech.com',
+    'https://jolly-island-0e1b96303.4.azurestaticapps.net'
   ],
   'script-src': ["'self'"],
   'img-src': ["'self'", 'data:'],
